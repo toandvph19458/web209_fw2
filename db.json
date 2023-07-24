@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "productA",
+      "price": 100,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "productBupdate",
+      "price": 200,
+      "status": true
+    },
+    {
+      "id": 0.6399553349479346,
+      "name": "product cupdate",
+      "price": 1000
+    }
+  ],
+  "users": []
+}
